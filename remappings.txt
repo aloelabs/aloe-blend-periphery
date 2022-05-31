@@ -1,0 +1,8 @@
+weird-erc20/=lib/aloe-blend/lib/solmate/lib/weird-erc20/src/
+forge-std/=lib/forge-std/src/
+@uniswap/v3-core/=lib/aloe-blend/lib/v3-core/
+@uniswap/v2-core/=lib/v2-core/contracts/
+solmate/=lib/solmate/src/
+aloe-blend/=lib/aloe-blend/contracts/
+ds-test/=lib/forge-std/lib/ds-test/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
